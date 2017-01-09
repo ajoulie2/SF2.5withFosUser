@@ -1,0 +1,8 @@
+# src/OC/PlatformBundle/Resources/config/routing.yml
+
+#cap_homepage:
+#    path:     /
+#    defaults: { _controller: capBundle:Alex:index }
+
+useradded:
+    path: /userAdded
